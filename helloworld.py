@@ -3,7 +3,7 @@ def hello_world(city, state):
 
 
 def main():
-    hello_world('NYC', 'New York')
+    hello_world('Boston', 'Massachusetts')
 
 
 main()
